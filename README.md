@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anshu Verma</h1>
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h2><p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;"></a>
 </p>
@@ -13,11 +13,11 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/EvilAnshu">
-        <img src="https://komarev.com/ghpvc/?username=EvilAnshu&label=Profile%20views&color=0e75b6&style=flat" alt="EvilAnshu" />
+    <a href="https://github.com/Akash7408">
+        <img src="https://komarev.com/ghpvc/?username=Akash7408&label=Profile%20views&color=0e75b6&style=flat" alt="Akash7408" />
     </a>
     <a href="https://github.com/EvilAnshu?tab=followers">
-        <img src="https://img.shields.io/github/followers/EvilAnshu?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/Akash7408?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -60,7 +60,7 @@
  <!--   <a href="https://twitter.com/EvilAnshu">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/EvilAnshu" />
     </a>  -->
-    <a href="http://evilanshu.github.io/">
+    <a href="http://akash74.github.io/react1/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilAnshu.github.io/" />
   
 </p>
