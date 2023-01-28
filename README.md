@@ -6,9 +6,9 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://evilanshu.github.io/">
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="https://akash7408.github.io/react1/ ">
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilanshu.github.io/" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://akash7408.github.io/react1/" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -16,7 +16,7 @@
     <a href="https://github.com/Akash7408">
         <img src="https://komarev.com/ghpvc/?username=Akash7408&label=Profile%20views&color=0e75b6&style=flat" alt="Akash7408" />
     </a>
-    <a href="https://github.com/EvilAnshu?tab=followers">
+    <a href="https://github.com/Akash7408?tab=followers">
         <img src="https://img.shields.io/github/followers/Akash7408?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
