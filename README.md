@@ -54,14 +54,14 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/evilanshu">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/evilanshu" />
+    <a href="https://www.linkedin.com/in/akash-verma-7ba65321b/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/akash-verma-7ba65321b/" />
     </a>
- <!--   <a href="https://twitter.com/EvilAnshu">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/EvilAnshu" />
-    </a>  -->
+   <a href="https://twitter.com/Akashve58385556">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Akashve58385556" />
+    </a> 
     <a href="http://akash74.github.io/react1/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilAnshu.github.io/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="http://akash74.github.io/react1/" />
   
 </p>
 <br>
@@ -71,8 +71,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvilAnshu&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="EvilAnshu" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAnshu&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="EvilAnshu" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash7408&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Akash7408" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash7408&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Akash7408" height="139" />
 </p>
 <br>
 
@@ -85,6 +85,6 @@
 
 
 <!---
-EvilAnshu/EvilAnshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Akash7408/Akash7408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
